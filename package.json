@@ -1,6 +1,6 @@
 {
   "name": "ts-xlsx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A working XLSX Library for typescript (Rebuild of the original xlsx)",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
@@ -23,20 +23,17 @@
     "url": "git+https://github.com/DxCx/ts-xlsx.git"
   },
   "keywords": [
-    "example",
+    "xlsx",
     "typescript",
-    "library",
-    "starter",
-    "webpack",
-    "browserify",
-    "dts-bundle",
-    "package",
-    "tslint",
-    "mocha",
-    "chai",
-    "babel",
-    "tsloader",
-    "ts-loader"
+    "xls",
+    "excel",
+    "office",
+    "angular 2",
+	"spreadsheet",
+	"ods",
+	"xlsm",
+	"xlsb",
+	"xlsx"
   ],
   "author": "Hagai Cohen",
   "license": "MIT",
