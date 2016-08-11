@@ -1,6 +1,6 @@
 {
   "name": "ts-xlsx",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "A working XLSX Library for typescript (Rebuild of the original xlsx)",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
