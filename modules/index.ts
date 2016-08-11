@@ -2,6 +2,7 @@ export {
     readFile,
     read,
     utils,
+    write,
     IProperties,
     IParsingOptions,
     IWorkBook,
