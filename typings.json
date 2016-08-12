@@ -2,8 +2,7 @@
   "name": "ts-xlsx",
   "version": "0.0.1",
   "globalDependencies": {
-    "node": "registry:dt/node#6.0.0+20160807145350",
-    "xlsx": "github:DxCx/DefinitelyTyped/xlsx/xlsx.d.ts#45c34f1baef9ca0306efbf12f58f38af94455602"
+    "node": "registry:dt/node#6.0.0+20160807145350"
   },
   "dependencies": {
     "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700"

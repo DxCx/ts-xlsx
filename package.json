@@ -1,6 +1,6 @@
 {
   "name": "ts-xlsx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A working XLSX Library for typescript (Rebuild of the original xlsx)",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
@@ -29,11 +29,11 @@
     "excel",
     "office",
     "angular 2",
-	"spreadsheet",
-	"ods",
-	"xlsm",
-	"xlsb",
-	"xlsx"
+    "spreadsheet",
+    "ods",
+    "xlsm",
+    "xlsb",
+    "xlsx"
   ],
   "author": "Hagai Cohen",
   "license": "MIT",
@@ -42,6 +42,7 @@
   },
   "homepage": "https://github.com/DxCx/ts-xlsx#readme",
   "dependencies": {
+    "@types/xlsx": "0.0.28",
     "jszip": "^3.1.0",
     "xlsx": "^0.8.0"
   },
