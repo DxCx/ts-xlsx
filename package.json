@@ -1,6 +1,6 @@
 {
   "name": "ts-xlsx",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A working XLSX Library for typescript (Rebuild of the original xlsx)",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
@@ -58,7 +58,7 @@
     "ts-loader": "^0.8.2",
     "tslint": "^3.13.0",
     "tslint-loader": "^2.1.5",
-    "typescript": "^1.8.10",
+    "typescript": "^2.0.0",
     "typings": "^1.3.1",
     "webpack": "^1.13.1"
   }
