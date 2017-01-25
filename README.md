@@ -38,5 +38,11 @@ import { read, IWorkBook } from 'ts-xlsx';
 let wb: IWorkBook = read(...)
 ```
 
+Example Respository:
+-----------
+if you are having troubles integrating into Angular 2,
+you can review this [Example Repository](https://github.com/florianschwanz/xlsx-drop-parse-demo) showing a working usecase of fileDrop.
+
+
 more documentation is provided by the original author of the library,
 as this is just a wrapper.
