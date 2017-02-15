@@ -42,9 +42,9 @@
   },
   "homepage": "https://github.com/DxCx/ts-xlsx#readme",
   "dependencies": {
-    "@types/xlsx": "0.0.28",
+    "@types/xlsx": "0.0.32",
     "jszip": "2.4.0",
-    "xlsx": "^0.8.0"
+    "xlsx": "^0.8.3"
   },
   "devDependencies": {
     "babel-core": "^6.11.4",
