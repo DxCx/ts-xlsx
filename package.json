@@ -1,6 +1,6 @@
 {
   "name": "ts-xlsx",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A working XLSX Library for typescript (Rebuild of the original xlsx)",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
@@ -42,9 +42,9 @@
   },
   "homepage": "https://github.com/DxCx/ts-xlsx#readme",
   "dependencies": {
-    "@types/xlsx": "0.0.32",
+    "@types/xlsx": "0.0.33",
     "jszip": "2.4.0",
-    "xlsx": "^0.8.3"
+    "xlsx": "^0.9.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
