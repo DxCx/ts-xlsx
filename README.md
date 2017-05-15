@@ -1,5 +1,9 @@
 # ts-xlsx
 
+This project is now deprecated. `xlsx` project now has embeded typings so there is no reason to maintain both.
+please move to [xlsx](https://www.npmjs.com/package/xlsx)
+
+------------
 A working XLSX Library for typescript (Rebuild of the original xlsx):
 https://github.com/SheetJS/js-xlsx/
 
